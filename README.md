@@ -1,8 +1,10 @@
 1.0 Introduction:
+
 An employee management system consists of crucial work-related and important personal information about an employee. In a nutshell, it is an online inventory of all employees of an organization.
 Employees are the strength of any organization, and it is more so in case of a growing business. It is crucial to handle this aspect of your business well. A good employee management system can actually make a world of difference to an organization, especially true in case of startups and small businesses, where the focus should be on growing the business more than anything else.
 
 2.0 Agenda:
+
 Employee Management System performs as a readily available source of information between the organization and the employee. Contact information, salary information, posts, work schedule, education information etc. is what most database systems consist of.
 Such information is readily available through HR software like sumHR.
 Employee management systems are highly efficient. A member of the organization can easily retrieve information about his/her colleague whenever required, and that too on short notice. One can avoid making calls to the employee out on vacation just to retrieve an address to send an important letter.
