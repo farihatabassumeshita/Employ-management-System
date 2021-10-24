@@ -22,8 +22,13 @@ The objective of this project is to provide a comprehensive approach towards the
 3.0 Proposed System
 
 Helps in maintaining the computerized employee details. 
+
 Calculate the salary.
- Easy attendance marking.
+
+Easy attendance marking.
+
 Easy calculation of various leave in categories. 
+
 Computerized Events & Requests Management.  
+
 Create new users to the system accordingly
